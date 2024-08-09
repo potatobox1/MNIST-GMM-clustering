@@ -1,0 +1,1 @@
+### Uses a Gausian mixture model to perform clustering on MNIST dataset, unorthodox approach to visualize GMM clustering on image data ###
